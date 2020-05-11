@@ -51,7 +51,7 @@ function Login() {
         <p className="text-black text-lg text-center text-xs">
           Don't have an account?{" "}
           <span className="text-lightBlue font-bold">
-            <Link to="/register/"> Log in</Link>
+            <Link to="/register/"> Sign up</Link>
           </span>
         </p>
       </div>
